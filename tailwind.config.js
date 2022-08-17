@@ -7,6 +7,7 @@ module.exports = {
         lightBg: "#FDF8EE",
         shopifyGreen: "#008060",
         shopifyDarkgreen: "#004C3F",
+        veryLightGreen: "#F3FCF4",
       },
     },
   },
